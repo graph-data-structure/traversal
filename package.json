@@ -13,7 +13,7 @@
 		"url": "https://github.com/aureooms/js-graph-traversal/issues"
 	},
 	"license": "AGPL-3.0",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Graph traversal code bricks for JavaScript",
 	"keywords": [
 		"bricks",

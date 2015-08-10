@@ -18,5 +18,5 @@
 	"homepage": "http://aureooms.github.io/js-graph-traversal/",
 	"description": "Graph traversal code bricks for JavaScript",
 	"name": "aureooms-js-graph-traversal",
-	"version": "0.0.0"
+	"version": "0.0.1"
 }
