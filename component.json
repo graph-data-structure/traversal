@@ -1,0 +1,11 @@
+{
+	"scripts": [
+		"js/dist/graph-traversal.js"
+	],
+	"main": "js/dist/graph-traversal.js",
+	"license": "AGPL-3.0",
+	"description": "Graph traversal code bricks for JavaScript",
+	"name": "aureooms-js-graph-traversal",
+	"repo": "aureooms/js-graph-traversal",
+	"version": "0.0.0"
+}
