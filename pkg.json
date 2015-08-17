@@ -13,5 +13,6 @@
 		]
 	},
 	"name": "graph-traversal",
-	"out": "js/dist/"
+	"out": "js/dist/",
+	"babel": true
 }
