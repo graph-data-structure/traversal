@@ -7,5 +7,5 @@
 	"description": "Graph traversal code bricks for JavaScript",
 	"name": "aureooms-js-graph-traversal",
 	"repo": "aureooms/js-graph-traversal",
-	"version": "0.0.1"
+	"version": "0.1.0"
 }

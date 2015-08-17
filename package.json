@@ -1,43 +1,43 @@
 {
-  "devDependencies": {
-    "aureooms-js-adjacency-list": "^4.0.7",
-    "aureooms-js-collections": "^1.0.0",
-    "aureooms-js-dll": "^6.0.10",
-    "aureooms-js-graph-augment": "^0.1.0",
-    "aureooms-js-graph-labeled": "^0.1.1",
-    "aureooms-js-graph-sugar": "^0.1.2",
-    "aureooms-js-itertools": "^1.2.0",
-    "aureooms-node-package": "^5.0.2"
-  },
-  "scripts": {
-    "doc": "./node_modules/.bin/groc",
-    "build": "./node_modules/.bin/aureooms-node-package-build",
-    "test": "./node_modules/.bin/aureooms-node-package-test"
-  },
-  "main": "js/dist/graph-traversal.js",
-  "author": "aureooms",
-  "bugs": {
-    "url": "https://github.com/aureooms/js-graph-traversal/issues"
-  },
-  "license": "AGPL-3.0",
-  "version": "0.0.1",
-  "description": "Graph traversal code bricks for JavaScript",
-  "keywords": [
-    "bricks",
-    "ender",
-    "graph",
-    "javascript",
-    "js",
-    "traversal"
-  ],
-  "dependencies": {},
-  "spm": {
-    "main": "js/dist/graph-traversal.js"
-  },
-  "homepage": "http://aureooms.github.io/js-graph-traversal/",
-  "repository": {
-    "url": "https://github.com/aureooms/js-graph-traversal.git",
-    "type": "git"
-  },
-  "name": "aureooms-js-graph-traversal"
+	"devDependencies": {
+		"aureooms-js-adjacency-list": "^4.0.7",
+		"aureooms-js-collections": "^1.0.0",
+		"aureooms-js-dll": "^6.0.10",
+		"aureooms-js-graph-augment": "^0.1.0",
+		"aureooms-js-graph-labeled": "^0.1.1",
+		"aureooms-js-graph-sugar": "^0.1.2",
+		"aureooms-js-itertools": "^1.2.0",
+		"aureooms-node-package": "^5.0.2"
+	},
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"main": "js/dist/graph-traversal.js",
+	"author": "aureooms",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-graph-traversal/issues"
+	},
+	"license": "AGPL-3.0",
+	"version": "0.1.0",
+	"description": "Graph traversal code bricks for JavaScript",
+	"keywords": [
+		"bricks",
+		"ender",
+		"graph",
+		"javascript",
+		"js",
+		"traversal"
+	],
+	"dependencies": {},
+	"spm": {
+		"main": "js/dist/graph-traversal.js"
+	},
+	"homepage": "http://aureooms.github.io/js-graph-traversal/",
+	"repository": {
+		"url": "https://github.com/aureooms/js-graph-traversal.git",
+		"type": "git"
+	},
+	"name": "aureooms-js-graph-traversal"
 }
