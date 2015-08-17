@@ -161,11 +161,151 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/dummy.js",
-        "projectPath": "js/src/dummy.js",
-        "targetPath": "dummy",
-        "pageTitle": "dummy",
-        "title": "dummy"
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/_dfs_postorder.js",
+        "projectPath": "js/src/_dfs_postorder.js",
+        "targetPath": "_dfs_postorder",
+        "pageTitle": "_dfs_postorder",
+        "title": "_dfs_postorder"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/_dfs_postorder_from_source.js",
+        "projectPath": "js/src/_dfs_postorder_from_source.js",
+        "targetPath": "_dfs_postorder_from_source",
+        "pageTitle": "_dfs_postorder_from_source",
+        "title": "_dfs_postorder_from_source"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/_dfs_preorder.js",
+        "projectPath": "js/src/_dfs_preorder.js",
+        "targetPath": "_dfs_preorder",
+        "pageTitle": "_dfs_preorder",
+        "title": "_dfs_preorder"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/_dfs_preorder_from_source.js",
+        "projectPath": "js/src/_dfs_preorder_from_source.js",
+        "targetPath": "_dfs_preorder_from_source",
+        "pageTitle": "_dfs_preorder_from_source",
+        "title": "_dfs_preorder_from_source"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/dfs_postorder.js",
+        "projectPath": "js/src/dfs_postorder.js",
+        "targetPath": "dfs_postorder",
+        "pageTitle": "dfs_postorder",
+        "title": "dfs_postorder"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/dfs_postorder_from_source.js",
+        "projectPath": "js/src/dfs_postorder_from_source.js",
+        "targetPath": "dfs_postorder_from_source",
+        "pageTitle": "dfs_postorder_from_source",
+        "title": "dfs_postorder_from_source"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/dfs_preorder.js",
+        "projectPath": "js/src/dfs_preorder.js",
+        "targetPath": "dfs_preorder",
+        "pageTitle": "dfs_preorder",
+        "title": "dfs_preorder"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-traversal/js/src/dfs_preorder_from_source.js",
+        "projectPath": "js/src/dfs_preorder_from_source.js",
+        "targetPath": "dfs_preorder_from_source",
+        "pageTitle": "dfs_preorder_from_source",
+        "title": "dfs_preorder_from_source"
       },
       "depth": 1,
       "outline": []
