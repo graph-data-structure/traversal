@@ -1,13 +1,13 @@
 {
 	"devDependencies": {
 		"aureooms-js-adjacency-list": "^4.0.7",
-		"aureooms-js-collections": "^2.1.0",
+		"aureooms-js-collections": "^3.0.0",
 		"aureooms-js-dll": "^6.0.10",
 		"aureooms-js-graph-augment": "^0.1.0",
 		"aureooms-js-graph-labeled": "^0.1.1",
 		"aureooms-js-graph-sugar": "^0.1.2",
 		"aureooms-js-itertools": "^3.0.0",
-		"aureooms-node-package": "^6.0.1"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"scripts": {
 		"doc": "./node_modules/.bin/groc",
