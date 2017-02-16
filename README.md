@@ -3,7 +3,7 @@
 
 Graph traversal code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-graph-traversal.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-traversal/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-graph-traversal.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-traversal/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-traversal.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-traversal.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-traversal)
 [![Build Status](https://img.shields.io/travis/aureooms/js-graph-traversal.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-traversal)
