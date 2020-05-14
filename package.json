@@ -52,5 +52,18 @@
     "url": "https://github.com/aureooms/js-graph-traversal.git",
     "type": "git"
   },
-  "name": "@aureooms/js-graph-traversal"
+  "name": "@aureooms/js-graph-traversal",
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-async-generator-functions"
+    ],
+    "env": {
+      "development": {
+        "sourceMaps": "inline"
+      }
+    }
+  }
 }
