@@ -23,11 +23,11 @@
     "nyc": "15.0.1"
   },
   "scripts": {
-    "build": "./node_modules/.bin/aureooms-node-package-build",
+    "build": "rm -rf lib && babel src -d lib",
     "test": "ava",
     "esdoc": "esdoc"
   },
-  "main": "js/dist/graph-traversal.js",
+  "main": "lib/index.js",
   "author": "aureooms",
   "bugs": {
     "url": "https://github.com/aureooms/js-graph-traversal/issues"
