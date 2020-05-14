@@ -1,16 +1,18 @@
+import test from 'ava';
+import * as graphtraversal from '../../src';
 
-var itertools = require( "@aureooms/js-itertools" ) ;
+import itertools from "@aureooms/js-itertools" ;
 var list = itertools.list ;
 
-var collections = require( "@aureooms/js-collections" ) ;
+import collections from "@aureooms/js-collections" ;
 var set = collections.set ;
 
-var dll = require( "@aureooms/js-dll" ) ;
-var adjacencylist = require( "@aureooms/js-adjacency-list" ) ;
+import dll from "@aureooms/js-dll" ;
+import adjacencylist from "@aureooms/js-adjacency-list" ;
 
 var augment = require( "@aureooms/js-graph-augment" ).augment ;
-var labeled = require( "@aureooms/js-graph-labeled" ) ;
-var sugar = require( "@aureooms/js-graph-sugar" ) ;
+import labeled from "@aureooms/js-graph-labeled" ;
+import sugar from "@aureooms/js-graph-sugar" ;
 
 var _MultiDiGraph = adjacencylist.MultiDiGraph( dll.DoublyLinkedList , Map ) ;
 var MultiDiGraph = augment( _MultiDiGraph ).with( labeled.label , sugar.add_missing_vertices ) ;
@@ -27,10 +29,10 @@ test( "dfs" , function ( assert ) {
 	G.eadd( 1 , 2 ) ;
 	G.eadd( 2 , 3 ) ;
 
-	assert.ok( set( preorder( G ) ).isequal( [ 1 , 2 , 3 ] ) , "preorder" ) ;
-	assert.deepEqual( list( preorder_from_source( G , 2 ) ) , [ 2 , 3 ] , "preorder_from_source" ) ;
-	assert.ok( set( postorder( G ) ).isequal( [ 3 , 2 , 1 ] ) , "postorder" ) ;
-	assert.deepEqual( list( postorder_from_source( G , 2 ) ) , [ 3 , 2 ] , "postorder_from_source" ) ;
+	assert.t.truthy( set( preorder( G ) ).isequal( [ 1 , 2 , 3 ] ) , "preorder" ) ;
+	assert.t.deepEqual( list( preorder_from_source( G , 2 ) ) , [ 2 , 3 ] , "preorder_from_source" ) ;
+	assert.t.truthy( set( postorder( G ) ).isequal( [ 3 , 2 , 1 ] ) , "postorder" ) ;
+	assert.t.deepEqual( list( postorder_from_source( G , 2 ) ) , [ 3 , 2 ] , "postorder_from_source" ) ;
 
 } ) ;
 
