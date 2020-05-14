@@ -7,7 +7,6 @@
     "@aureooms/js-graph-labeled": "^0.1.1",
     "@aureooms/js-graph-sugar": "^0.1.2",
     "@aureooms/js-itertools": "^3.0.0",
-    "aureooms-node-package": "^6.0.1",
     "@babel/cli": "7.8.4",
     "@babel/core": "7.9.6",
     "@babel/polyfill": "7.8.7",
