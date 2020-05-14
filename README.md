@@ -3,17 +3,20 @@
 
 Graph traversal code bricks for JavaScript
 
-[![License](https://img.shields.io/github/license/aureooms/js-graph-traversal.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-traversal/master/LICENSE)
-[![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-traversal.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
-[![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-traversal.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-traversal)
-[![Build Status](https://img.shields.io/travis/aureooms/js-graph-traversal.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-traversal)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-graph-traversal.svg?style=flat)](https://coveralls.io/r/aureooms/js-graph-traversal)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-graph-traversal.svg?style=flat)](https://david-dm.org/aureooms/js-graph-traversal#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-graph-traversal.svg?style=flat)](https://david-dm.org/aureooms/js-graph-traversal#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-graph-traversal.svg?style=flat)](https://codeclimate.com/github/aureooms/js-graph-traversal)
-[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-graph-traversal.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-graph-traversal.svg?style=flat)](https://github.com/aureooms/js-graph-traversal/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-graph-traversal.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-graph-traversal)
+[![License](https://img.shields.io/github/license/aureooms/js-graph-traversal.svg)](https://raw.githubusercontent.com/aureooms/js-graph-traversal/master/LICENSE)
+[![Version](https://img.shields.io/npm/v/@aureooms/js-graph-traversal.svg)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
+[![Build](https://img.shields.io/travis/aureooms/js-graph-traversal/master.svg)](https://travis-ci.org/aureooms/js-graph-traversal/branches)
+[![Dependencies](https://img.shields.io/david/aureooms/js-graph-traversal.svg)](https://david-dm.org/aureooms/js-graph-traversal)
+[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-graph-traversal.svg)](https://david-dm.org/aureooms/js-graph-traversal?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-graph-traversal.svg)](https://github.com/aureooms/js-graph-traversal/issues)
+[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-graph-traversal.svg)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
+
+[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-graph-traversal/master.svg)](https://codecov.io/gh/aureooms/js-graph-traversal)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/technical_debt)
+[![Documentation](https://aureooms.github.io/js-graph-traversal//badge.svg)](https://aureooms.github.io/js-graph-traversal//source.html)
+[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-graph-traversal)](https://bundlephobia.com/result?p=@aureooms/js-graph-traversal)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
 [duo](https://github.com/duojs/duo),
@@ -91,5 +94,4 @@ Alternatively, you can use any tool mentioned [here](http://bower.io/docs/tools/
 
 ### jam
 ```js
-require( [ "@aureooms/js-graph-traversal" ] , function ( graphtraversal ) { ... } ) ;
-```
+```require( [ "@aureooms/js-graph-traversal" ] , function ( graphtraversal ) { ... } ) ;
