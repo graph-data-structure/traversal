@@ -1,5 +1,5 @@
 
-const _dfs_postorder = function* ( G , seen ) {
+export function* _dfs_postorder ( G , seen ) {
 
 	for ( let v of G.vitr( ) ) {
 
@@ -9,6 +9,5 @@ const _dfs_postorder = function* ( G , seen ) {
 
 	}
 
-} ;
+}
 
-exports._dfs_postorder = _dfs_postorder ;

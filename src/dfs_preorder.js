@@ -1,8 +1,7 @@
 
-const dfs_preorder = function ( G ) {
+export function dfs_preorder ( G ) {
 
 	return _dfs_preorder( G , new Set( ) ) ;
 
-} ;
+}
 
-exports.dfs_preorder = dfs_preorder ;

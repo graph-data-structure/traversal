@@ -1,5 +1,5 @@
 
-const _dfs_postorder_from_source = function* ( G , source , seen ) {
+export function* _dfs_postorder_from_source ( G , source , seen ) {
 
 	seen.add( source ) ;
 
@@ -13,6 +13,5 @@ const _dfs_postorder_from_source = function* ( G , source , seen ) {
 
 	yield source ;
 
-} ;
+}
 
-exports._dfs_postorder_from_source = _dfs_postorder_from_source ;

@@ -1,5 +1,5 @@
 
-const _dfs_preorder = function* ( G , seen ) {
+export function* _dfs_preorder ( G , seen ) {
 
 	for ( let v of G.vitr( ) ) {
 
@@ -9,6 +9,5 @@ const _dfs_preorder = function* ( G , seen ) {
 
 	}
 
-} ;
+}
 
-exports._dfs_preorder = _dfs_preorder ;

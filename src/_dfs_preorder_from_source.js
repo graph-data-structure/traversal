@@ -1,5 +1,5 @@
 
-const _dfs_preorder_from_source = function* ( G , source , seen ) {
+export function* _dfs_preorder_from_source ( G , source , seen ) {
 
 	seen.add( source ) ;
 
@@ -13,6 +13,5 @@ const _dfs_preorder_from_source = function* ( G , source , seen ) {
 
 	}
 
-} ;
+}
 
-exports._dfs_preorder_from_source = _dfs_preorder_from_source ;
