@@ -1,4 +1,4 @@
-[js-graph-traversal](http://aureooms.github.io/js-graph-traversal)
+[@aureooms/js-graph-traversal](https://aureooms.github.io/js-graph-traversal)
 ==
 
 Graph traversal code bricks for JavaScript
