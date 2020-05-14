@@ -46,9 +46,6 @@
     "traversal"
   ],
   "dependencies": {},
-  "spm": {
-    "main": "js/dist/graph-traversal.js"
-  },
   "homepage": "http://aureooms.github.io/js-graph-traversal/",
   "repository": {
     "url": "https://github.com/aureooms/js-graph-traversal.git",
