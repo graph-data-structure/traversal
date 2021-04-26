@@ -1,4 +1,4 @@
-[@aureooms/js-graph-traversal](https://aureooms.github.io/js-graph-traversal)
+[@aureooms/js-graph-traversal](https://make-github-pseudonymous-again.github.io/js-graph-traversal)
 ==
 
 Graph traversal code bricks for JavaScript
@@ -15,7 +15,7 @@ Graph traversal code bricks for JavaScript
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-graph-traversal/master.svg)](https://codecov.io/gh/aureooms/js-graph-traversal)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-graph-traversal//badge.svg)](https://aureooms.github.io/js-graph-traversal//source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-graph-traversal//badge.svg)](https://make-github-pseudonymous-again.github.io/js-graph-traversal//source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-graph-traversal)](https://bundlephobia.com/result?p=@aureooms/js-graph-traversal)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
