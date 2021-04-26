@@ -3,18 +3,18 @@
 
 Graph traversal code bricks for JavaScript
 
-[![License](https://img.shields.io/github/license/aureooms/js-graph-traversal.svg)](https://raw.githubusercontent.com/aureooms/js-graph-traversal/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-graph-traversal.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-graph-traversal/master/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-graph-traversal.svg)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
-[![Build](https://img.shields.io/travis/aureooms/js-graph-traversal/master.svg)](https://travis-ci.org/aureooms/js-graph-traversal/branches)
-[![Dependencies](https://img.shields.io/david/aureooms/js-graph-traversal.svg)](https://david-dm.org/aureooms/js-graph-traversal)
-[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-graph-traversal.svg)](https://david-dm.org/aureooms/js-graph-traversal?type=dev)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-graph-traversal.svg)](https://github.com/aureooms/js-graph-traversal/issues)
+[![Build](https://img.shields.io/travis/make-github-pseudonymous-again/js-graph-traversal/master.svg)](https://travis-ci.org/make-github-pseudonymous-again/js-graph-traversal/branches)
+[![Dependencies](https://img.shields.io/david/make-github-pseudonymous-again/js-graph-traversal.svg)](https://david-dm.org/make-github-pseudonymous-again/js-graph-traversal)
+[![Dev dependencies](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-graph-traversal.svg)](https://david-dm.org/make-github-pseudonymous-again/js-graph-traversal?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-graph-traversal.svg)](https://github.com/make-github-pseudonymous-again/js-graph-traversal/issues)
 [![Downloads](https://img.shields.io/npm/dm/@aureooms/js-graph-traversal.svg)](https://www.npmjs.org/package/@aureooms/js-graph-traversal)
 
-[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/issues)
-[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/churn)
-[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-graph-traversal/master.svg)](https://codecov.io/gh/aureooms/js-graph-traversal)
-[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-graph-traversal.svg)](https://codeclimate.com/github/aureooms/js-graph-traversal/trends/technical_debt)
+[![Code issues](https://img.shields.io/codeclimate/issues/make-github-pseudonymous-again/js-graph-traversal.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-graph-traversal/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/make-github-pseudonymous-again/js-graph-traversal.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-graph-traversal/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/make-github-pseudonymous-again/js-graph-traversal/master.svg)](https://codecov.io/gh/make-github-pseudonymous-again/js-graph-traversal)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/make-github-pseudonymous-again/js-graph-traversal.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-graph-traversal/trends/technical_debt)
 [![Documentation](https://make-github-pseudonymous-again.github.io/js-graph-traversal//badge.svg)](https://make-github-pseudonymous-again.github.io/js-graph-traversal//source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-graph-traversal)](https://bundlephobia.com/result?p=@aureooms/js-graph-traversal)
 
